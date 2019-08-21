@@ -91,3 +91,7 @@ https://b.watch
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
 ![CC-BY-NC-ND](images/CC-BY-NC-ND.png?raw=true)
+
+******
+
+> 学注：是不是在老爸老妈“**不理解**”的情况下，用“**欺骗**”的方式进行定投呢？
